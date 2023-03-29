@@ -1,5 +1,6 @@
 package dk.kea.pokedex.model;
 
+
 public class Pokemon
 	{
 		private int id;
